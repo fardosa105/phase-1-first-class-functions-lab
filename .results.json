@@ -1,0 +1,60 @@
+{
+  "stats": {
+    "suites": 1,
+    "tests": 3,
+    "passes": 3,
+    "pending": 0,
+    "failures": 0,
+    "start": "2024-07-06T03:59:29.914Z",
+    "end": "2024-07-06T03:59:30.550Z",
+    "duration": 636
+  },
+  "tests": [
+    {
+      "title": "returnFirstTwoDrivers should return first two drivers",
+      "fullTitle": "First Class Functions Lab returnFirstTwoDrivers should return first two drivers",
+      "duration": 2,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "returnLastTwoDrivers should return last two drivers",
+      "fullTitle": "First Class Functions Lab returnLastTwoDrivers should return last two drivers",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "selectingDrivers should include returnFirstTwoDrivers and returnLastTwoDrivers",
+      "fullTitle": "First Class Functions Lab selectingDrivers should include returnFirstTwoDrivers and returnLastTwoDrivers",
+      "duration": 2,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "returnFirstTwoDrivers should return first two drivers",
+      "fullTitle": "First Class Functions Lab returnFirstTwoDrivers should return first two drivers",
+      "duration": 2,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "returnLastTwoDrivers should return last two drivers",
+      "fullTitle": "First Class Functions Lab returnLastTwoDrivers should return last two drivers",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "selectingDrivers should include returnFirstTwoDrivers and returnLastTwoDrivers",
+      "fullTitle": "First Class Functions Lab selectingDrivers should include returnFirstTwoDrivers and returnLastTwoDrivers",
+      "duration": 2,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ]
+}
